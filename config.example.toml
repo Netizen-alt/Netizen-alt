@@ -1,0 +1,18 @@
+github_username = "Netizen-alt"
+title = "Hi there, I'm Nack 👋"
+subtitle = "Software Developer | Open Source Enthusiast"
+show_stats = true
+show_languages = true
+show_recent_repos = true
+
+[[custom_sections]]
+title = "🔭 I'm currently working on"
+content = "Building awesome projects with Rust!"
+
+[[custom_sections]]
+title = "🌱 I'm currently learning"
+content = "Advanced Rust patterns and systems programming"
+
+[[custom_sections]]
+title = "⚡ Fun fact"
+content = "I love coding and coffee ☕"
