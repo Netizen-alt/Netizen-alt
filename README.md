@@ -70,51 +70,7 @@
 ---
 
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-
-<a href="https://github.com/Netizen-alt/Netizen-alt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=Netizen-alt&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-
-<a href="https://github.com/Netizen-alt/bun-vs-node-sea-startup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=bun-vs-node-sea-startup&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-
-
-
-<a href="https://github.com/Netizen-alt/LuxTours">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=LuxTours&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-
-<a href="https://github.com/Netizen-alt/Preact-FiveM-Boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=Preact-FiveM-Boilerplate&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-
-
-
-<a href="https://github.com/Netizen-alt/discord-js14-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=discord-js14-template&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-
-<a href="https://github.com/Netizen-alt/SecureVault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=SecureVault&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-
-
-
-
-</div>
-
-<br/>
+## 🚀 Recent Projects
 
 ### 📌 Recent Activity
 
