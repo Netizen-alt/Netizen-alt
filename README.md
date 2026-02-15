@@ -70,35 +70,6 @@
 ---
 
 
-## 🚀 Recent Projects
-
-### 📌 Recent Activity
-
-
-- 🔨 **[Netizen-alt](https://github.com/Netizen-alt/Netizen-alt)** - `Rust`
-  
-  <br/>  ⭐ 0 stars | 🍴 0 forks
-
-- 🔨 **[bun-vs-node-sea-startup](https://github.com/Netizen-alt/bun-vs-node-sea-startup)** 
-  
-  <br/>  ⭐ 0 stars | 🍴 0 forks
-
-- 🔨 **[LuxTours](https://github.com/Netizen-alt/LuxTours)** - `JavaScript`
-  <br/>  LuxTours - Premium Tour Booking System
-  <br/>  ⭐ 0 stars | 🍴 0 forks
-
-- 🔨 **[Preact-FiveM-Boilerplate](https://github.com/Netizen-alt/Preact-FiveM-Boilerplate)** - `TypeScript`
-  
-  <br/>  ⭐ 0 stars | 🍴 0 forks
-
-- 🔨 **[discord-js14-template](https://github.com/Netizen-alt/discord-js14-template)** - `TypeScript`
-  
-  <br/>  ⭐ 0 stars | 🍴 0 forks
-
-
-
----
-
 
 ## 🔭 I'm currently working on
 
