@@ -30,9 +30,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ user.login }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={{ user.login }}&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 ### 🏆 Quick Stats
 
@@ -76,6 +80,8 @@
 {% endfor %}
 
 </div>
+
+<br/>
 
 ### 📌 Recent Activity
 
@@ -130,18 +136,22 @@
 
 ### 🎯 Profile Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={{ user.login }}&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username={{ user.login }}&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+
+<br/><br/>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username={{ user.login }}&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username={{ user.login }}&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+  
+  <br/>
   
   <sub>💖 Generated with [github-profile-rust](https://github.com/{{ user.login }}/github-profile-rust)</sub>
 </div>
