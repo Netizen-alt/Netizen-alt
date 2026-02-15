@@ -30,9 +30,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netizen-alt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Netizen-alt&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 ### 🏆 Quick Stats
 
@@ -40,7 +44,7 @@
 
 | 📦 Public Repos | ⭐ Total Stars | 👥 Followers | 👤 Following |
 |:---------------:|:--------------:|:------------:|:------------:|
-| **114** | **3** | **33** | **19** |
+| **113** | **3** | **33** | **19** |
 
 </div>
 
@@ -71,8 +75,8 @@
 <div align="center">
 
 
-<a href="https://github.com/Netizen-alt/github-profile-rust">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=github-profile-rust&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Netizen-alt/Netizen-alt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Netizen-alt&repo=Netizen-alt&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 
@@ -110,10 +114,12 @@
 
 </div>
 
+<br/>
+
 ### 📌 Recent Activity
 
 
-- 🔨 **[github-profile-rust](https://github.com/Netizen-alt/github-profile-rust)** - `Rust`
+- 🔨 **[Netizen-alt](https://github.com/Netizen-alt/Netizen-alt)** - `Rust`
   
   <br/>  ⭐ 0 stars | 🍴 0 forks
 
@@ -191,18 +197,22 @@ I love coding and coffee ☕
 
 ### 🎯 Profile Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Netizen-alt&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Netizen-alt&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+
+<br/><br/>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Netizen-alt&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Netizen-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+  
+  <br/>
   
   <sub>💖 Generated with [github-profile-rust](https://github.com/Netizen-alt/github-profile-rust)</sub>
 </div>
