@@ -66,22 +66,7 @@
 ---
 
 {% if config.show_recent_repos and repos | length > 0 %}
-## 🚀 Featured Projects
-
-<div align="center">
-
-{% for repo in repos | slice(end=6) %}
-<a href="{{ repo.html_url }}">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username={{ user.login }}&repo={{ repo.name }}&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-{% if loop.index % 2 == 0 %}
-
-{% endif %}
-{% endfor %}
-
-</div>
-
-<br/>
+## 🚀 Recent Projects
 
 ### 📌 Recent Activity
 
